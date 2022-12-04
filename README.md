@@ -11,9 +11,8 @@ This week, we will work with the Natural Language Toolkit (NLTK), a suite of Pyt
 - Curriculum for this session:
     - DHRI's [Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (lessons 1-12)
 - Assignments (due by 10am on the day of class):
-   - In a [new Jupyter Notebook](https://www.edlitera.com/en/blog/posts/g-uide-how-to-start-jupyter-notebook), practice the commands in the curriculum for this session 
-    - "Gist" your Jupyter Notebook to your GitHub account 
-    - Share the gist link in the weekly GitHub assignment link
+   - Work through the curriculum for the upcoming week's session in a Jupyter Notebook. Download your Jupyter Notebook as "ipynb" file (Go to "File", "Download as", "Notebook (.ipynb)"), and [upload](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the file to the weekly GitHub assignment link.
+        -  You are welcome to use the dataset provided in the curriculum link or use a dataset of your choice. 
 - Additional readings/resources (not required, but useful!):
     - Tutorials:
         - Geeks for Geeks: [Generating Word Cloud in Python](https://www.geeksforgeeks.org/generating-word-cloud-python/#:~:text=For%20generating%20word%20cloud%20in,from%20UCI%20Machine%20Learning%20Repository)
